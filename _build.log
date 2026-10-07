@@ -1,0 +1,93 @@
+316 INFO: PyInstaller: 6.22.3, contrib hooks: 2026.7
+317 INFO: Python: 3.13.14
+339 INFO: Platform: Windows-11-10.0.22631-SP0
+339 INFO: Python environment: C:\Users\LiuYuming\.workbuddy\binaries\python\envs\default
+1990 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Scripts\\pyinstaller.exe',
+ 'D:\\wb\\WorkBuddy\\resources\\app.asar.unpacked\\cli\\vendor\\shim',
+ 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\versions\\3.13.12\\python313.zip',
+ 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\versions\\3.13.12\\DLLs',
+ 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\versions\\3.13.12\\Lib',
+ 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\versions\\3.13.12',
+ 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default',
+ 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages',
+ 'C:\\Users\\LiuYuming\\.workbuddy\\rx\\ScreenTranslator']
+3158 INFO: Appending 'binaries' from .spec
+3159 INFO: Appending 'datas' from .spec
+3161 INFO: checking Analysis
+3172 INFO: Building because excludes changed
+3172 INFO: Looking for Python shared library...
+3172 INFO: Using Python shared library: C:\Users\LiuYuming\.workbuddy\binaries\python\versions\3.13.12\python313.dll
+3173 INFO: Running Analysis Analysis-00.toc
+3173 INFO: Target bytecode optimization level: 0
+3173 INFO: Initializing module dependency graph...
+3175 INFO: Initializing module graph hook caches...
+3195 INFO: Analyzing modules for base_library.zip ...
+6937 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+8150 INFO: Processing standard module hook 'hook-math.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+10417 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+12262 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+13530 INFO: Caching module dependency graph...
+13623 INFO: Analyzing C:\Users\LiuYuming\.workbuddy\rx\ScreenTranslator\main.py
+13648 INFO: Processing standard module hook 'hook-PyQt6.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+15610 INFO: Processing standard module hook 'hook-PyQt6.QtCore.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+20764 INFO: Processing standard module hook 'hook-PyQt6.QtGui.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+36279 INFO: Processing standard module hook 'hook-PyQt6.QtWidgets.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+40254 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+40314 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+40323 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+40352 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+40354 INFO: SetuptoolsInfo: initializing cached setuptools info...
+42468 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+42736 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+44002 INFO: Processing standard module hook 'hook-PIL.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+44174 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+45271 INFO: Processing standard module hook 'hook-numpy.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+48296 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+48847 INFO: Processing standard module hook 'hook-charset_normalizer.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+49552 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+49898 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+51399 INFO: Processing standard module hook 'hook-cv2.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+52681 INFO: Processing standard module hook 'hook-onnxruntime.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+52834 INFO: Processing pre-safe-import-module hook 'hook-tensorflow.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\pre_safe_import_module'
+53075 INFO: Analyzing hidden import 'pyclipper'
+53080 INFO: Analyzing hidden import 'shapely.geometry'
+53084 INFO: Processing standard module hook 'hook-shapely.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+53320 INFO: Analyzing hidden import 'six'
+53369 INFO: Analyzing hidden import 'rapidocr_onnxruntime.ch_ppocr_v2_cls'
+53382 INFO: Analyzing hidden import 'rapidocr_onnxruntime.ch_ppocr_v3_det'
+53417 INFO: Analyzing hidden import 'rapidocr_onnxruntime.ch_ppocr_v3_rec'
+53431 INFO: Processing module hooks (post-graph stage)...
+53924 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+54073 INFO: Performing binary vs. data reclassification (146 entries)
+54178 INFO: Looking for ctypes DLLs
+54319 INFO: Analyzing run-time hooks ...
+54323 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+54328 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+54331 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+54335 INFO: Including run-time hook 'pyi_rth_pyqt6.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+54338 INFO: Processing pre-find-module-path hook 'hook-_pyi_rth_utils.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+54341 INFO: Processing standard module hook 'hook-_pyi_rth_utils.py' from 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyInstaller\\hooks'
+54975 INFO: Creating base_library.zip...
+55003 INFO: Looking for dynamic libraries
+56836 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyQt6\\Qt6\\bin', 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\numpy.libs', 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\cv2\\../../x64/vc17/bin', 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\shapely.libs', 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\ctranslate2', 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\ctranslate2/../_rocm_sdk_core/bin']
+56836 INFO: Extra DLL search directories (PATH): ['C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\cv2\\../../x64/vc17/bin', 'C:\\Users\\LiuYuming\\.workbuddy\\binaries\\python\\envs\\default\\Lib\\site-packages\\PyQt6\\Qt6\\bin']
+60032 INFO: Warnings written to C:\Users\LiuYuming\.workbuddy\rx\ScreenTranslator\build\ScreenTranslator\warn-ScreenTranslator.txt
+60106 INFO: Graph cross-reference written to C:\Users\LiuYuming\.workbuddy\rx\ScreenTranslator\build\ScreenTranslator\xref-ScreenTranslator.html
+60159 INFO: checking PYZ
+60235 INFO: checking PKG
+60239 INFO: Building because toc changed
+60239 INFO: Building PKG (CArchive) ScreenTranslator.pkg
+110392 INFO: Building PKG (CArchive) ScreenTranslator.pkg completed successfully.
+110401 INFO: Bootloader C:\Users\LiuYuming\.workbuddy\binaries\python\envs\default\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+110401 INFO: checking EXE
+110407 INFO: Rebuilding EXE-00.toc because ScreenTranslator.exe missing
+110407 INFO: Building EXE from EXE-00.toc
+110407 INFO: Copying bootloader EXE to C:\Users\LiuYuming\.workbuddy\rx\ScreenTranslator\dist\ScreenTranslator.exe
+110421 INFO: Copying icon to EXE
+110433 INFO: Copying 0 resources to EXE
+110433 INFO: Embedding manifest in EXE
+110443 INFO: Appending PKG archive to EXE
+110584 INFO: Fixing EXE headers
+111418 INFO: Building EXE from EXE-00.toc completed successfully.
+111433 INFO: Build complete! The results are available in: C:\Users\LiuYuming\.workbuddy\rx\ScreenTranslator\dist
